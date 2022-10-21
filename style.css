@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aquamarine;
+    height: 10vh;
+}
+main{
+    background-color: blueviolet;
+    height: 80vh;
+}
+footer{
+    background-color: brown;
+    height: 10vh;
+}
